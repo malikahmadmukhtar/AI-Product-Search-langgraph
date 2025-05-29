@@ -120,4 +120,4 @@ Contributions, issues, and feature requests are welcome!
 
 ## 👨‍💻 Author
 
-Built with ❤️ by [Your Name](https://github.com/malikahmadmukhtar)
+Built with ❤️ by [Ahmad](https://github.com/malikahmadmukhtar)
